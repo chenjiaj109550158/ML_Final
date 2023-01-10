@@ -67,6 +67,8 @@ python 109550158_Final_inference.py
 ```
 The results will be saved in 109550158.csv.
 
+Pre-trained models link：
+https://drive.google.com/drive/folders/1tbeLJngp6G5djGV9grW9UmRD2Kj8YTPI?usp=share_link
 
 
 
