@@ -89,5 +89,5 @@ if __name__ == "__main__":
         print()
 
     print()
-    print(f'Method1 CV AUC score: {np.mean(np.array(auc_score))}')
-    print('Method2 CV AUC score: ', roc_auc_score(oof_targets, oof_predictions))
+    print(f'Mean AUC score: {np.mean(np.array(auc_score))}')
+    
