@@ -1,6 +1,6 @@
 # ML_Final
 
-#1. Dependencies
+## 1. Dependencies
 
 Python 3.8 is required.
 
@@ -13,7 +13,7 @@ and then install the dependencies.
 pip install -r requirements_examples.txt
 ```
 
-#2. Training section
+## 2. Training section
 Run training section
 ```
 python 109550158_Final_train.py
@@ -60,7 +60,7 @@ Hyperparameter in LogisticRegression
             max_iter=700, C=0.1, dual=False, penalty="l2", solver='newton-cg')
 ```
 
-3. Evaluation section
+## 3. Evaluation section
 Run Evaluation section
 ```
 python 109550158_Final_inference.py
